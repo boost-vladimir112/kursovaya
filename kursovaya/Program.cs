@@ -17,6 +17,7 @@ namespace kursovaya
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new new_base_comp());
+            /// privet
         }
     }
 }
