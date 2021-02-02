@@ -9,6 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
+/// <summary>
+/// KURSOVAYA PO BALSE
+/// </summary>
 namespace kursovaya
 {
     public partial class new_base_comp : Form
